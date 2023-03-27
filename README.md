@@ -21,7 +21,7 @@ Installation
 Clone the repository to your local machine:
 
 Bash
-git clone https://github.com/<username>/rave-hr.git 
+git clone https://github.com/sekonii/rave-hr.git 
 
 Import the database file into your MySQL database:
 
